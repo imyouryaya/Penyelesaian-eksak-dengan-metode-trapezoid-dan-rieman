@@ -1,0 +1,1 @@
+# Penyelesaian-eksak-dengan-metode-trapezoid-dan-rieman
